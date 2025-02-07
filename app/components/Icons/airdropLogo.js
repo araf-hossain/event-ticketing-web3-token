@@ -1,0 +1,188 @@
+import React from "react";
+
+export function AirdropLogo() {
+  return (
+    <>
+      <svg
+        width="290"
+        height="478"
+        viewBox="0 0 290 478"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <circle cx="145" cy="145" r="145" fill="url(#paint0_linear_11_352)" />
+        <mask
+          id="mask0_11_352"
+          maskUnits="userSpaceOnUse"
+          x="0"
+          y="0"
+          style={{ maskType: "alpha" }}
+          width="290"
+          height="290"
+        >
+          <circle cx="145" cy="145" r="145" fill="url(#paint1_linear_11_352)" />
+        </mask>
+        <g mask="url(#mask0_11_352)">
+          <line y1="22" x2="148" y2="22" stroke="black" strokeWidth="4" />
+          <line y1="46" x2="148" y2="46" stroke="black" strokeWidth="4" />
+          <line y1="70" x2="148" y2="70" stroke="black" strokeWidth="4" />
+          <line y1="94" x2="148" y2="94" stroke="black" strokeWidth="4" />
+          <line y1="118" x2="148" y2="118" stroke="black" strokeWidth="4" />
+          <line y1="142" x2="148" y2="142" stroke="black" strokeWidth="4" />
+          <line
+            x1="292"
+            y1="8.74228e-08"
+            x2="292"
+            y2="290"
+            stroke="black"
+            strokeWidth="4"
+          />
+          <line
+            x1="268"
+            y1="8.74228e-08"
+            x2="268"
+            y2="290"
+            stroke="black"
+            strokeWidth="4"
+          />
+          <line
+            x1="244"
+            y1="8.74228e-08"
+            x2="244"
+            y2="290"
+            stroke="black"
+            strokeWidth="4"
+          />
+          <line
+            x1="220"
+            y1="8.74228e-08"
+            x2="220"
+            y2="290"
+            stroke="black"
+            strokeWidth="4"
+          />
+          <line
+            x1="196"
+            y1="-7.54197e-06"
+            x2="196"
+            y2="290"
+            stroke="black"
+            strokeWidth="4"
+          />
+          <line
+            x1="172"
+            y1="-7.54197e-06"
+            x2="172"
+            y2="290"
+            stroke="black"
+            strokeWidth="4"
+          />
+          <line
+            x1="148"
+            y1="-7.54197e-06"
+            x2="148"
+            y2="290"
+            stroke="black"
+            strokeWidth="4"
+          />
+        </g>
+        <rect
+          x="24"
+          y="403"
+          width="250"
+          height="75"
+          fill="url(#paint2_linear_11_352)"
+        />
+        <rect x="99" y="403" width="100" height="75" fill="#0052FF" />
+        <path
+          d="M145.52 247.819C142.441 251.065 70 327.749 70 369.957C70 412.997 104.765 448 147.5 448C190.25 448 225 412.993 225 369.957C225 327.749 152.561 251.064 149.48 247.819C148.44 246.727 146.549 246.727 145.52 247.819Z"
+          fill="url(#paint3_linear_11_352)"
+        />
+        <circle
+          cx="148"
+          cy="376"
+          r="46"
+          fill="#FFD200"
+          stroke="black"
+          strokeWidth="4"
+        />
+        <path d="M149 344V409" stroke="black" strokeWidth="4" />
+        <path d="M181.5 376.5L116.5 376.5" stroke="black" strokeWidth="4" />
+        <path
+          d="M171.981 399.481L126.019 353.519"
+          stroke="black"
+          strokeWidth="4"
+        />
+        <path
+          d="M171.981 353.519L126.019 399.481"
+          stroke="black"
+          strokeWidth="4"
+        />
+        <path
+          fillRule="evenodd"
+          clipRule="evenodd"
+          d="M181.581 285.346C169.895 288.384 157.636 290 145 290C133.87 290 123.032 288.746 112.621 286.371C128.996 265.302 144.148 249.266 145.52 247.82C146.549 246.727 148.44 246.727 149.48 247.82C150.831 249.242 165.515 264.783 181.581 285.346Z"
+          fill="black"
+        />
+        <path
+          d="M273 295.012C273 295.008 273 295.004 273 295C273 294.996 273 294.992 273 294.988C259.933 294.587 249.413 284.067 249.012 271C249.008 271 249.004 271 249 271C248.996 271 248.992 271 248.988 271C248.587 284.067 238.067 294.587 225 294.988C225 294.992 225 294.996 225 295C225 295.004 225 295.008 225 295.012C238.067 295.413 248.587 305.933 248.988 319C248.992 319 248.996 319 249 319C249.004 319 249.008 319 249.012 319C249.413 305.933 259.933 295.413 273 295.012Z"
+          fill="#0052FF"
+        />
+        <path
+          d="M54 332.012C54 332.008 54 332.004 54 332C54 331.996 54 331.992 54 331.988C40.9329 331.587 30.413 321.067 30.0119 308C30.0079 308 30.004 308 30 308C29.996 308 29.9921 308 29.9881 308C29.587 321.067 19.0671 331.587 6 331.988C6 331.992 6 331.996 6 332C6 332.004 6 332.008 6 332.012C19.0671 332.413 29.587 342.933 29.9881 356C29.9921 356 29.996 356 30 356C30.004 356 30.0079 356 30.0119 356C30.413 342.933 40.9329 332.413 54 332.012Z"
+          fill="#FFD200"
+        />
+        <path
+          d="M264 442.012C264 442.008 264 442.004 264 442C264 441.996 264 441.992 264 441.988C250.933 441.587 240.413 431.067 240.012 418C240.008 418 240.004 418 240 418C239.996 418 239.992 418 239.988 418C239.587 431.067 229.067 441.587 216 441.988C216 441.992 216 441.996 216 442C216 442.004 216 442.008 216 442.012C229.067 442.413 239.587 452.933 239.988 466C239.992 466 239.996 466 240 466C240.004 466 240.008 466 240.012 466C240.413 452.933 250.933 442.413 264 442.012Z"
+          fill="white"
+        />
+        <defs>
+          <linearGradient
+            id="paint0_linear_11_352"
+            x1="145"
+            y1="290"
+            x2="145"
+            y2="5.64126e-06"
+            gradientUnits="userSpaceOnUse"
+          >
+            <stop stopColor="#5DE2F8" />
+            <stop offset="0.535806" stopColor="#0F6FFF" />
+          </linearGradient>
+          <linearGradient
+            id="paint1_linear_11_352"
+            x1="145"
+            y1="145"
+            x2="145"
+            y2="0"
+            gradientUnits="userSpaceOnUse"
+          >
+            <stop stopColor="#5DE2F8" />
+            <stop offset="1" stopColor="#0F6FFF" />
+          </linearGradient>
+          <linearGradient
+            id="paint2_linear_11_352"
+            x1="157"
+            y1="366.5"
+            x2="138.842"
+            y2="462.338"
+            gradientUnits="userSpaceOnUse"
+          >
+            <stop stopColor="#FFD200" />
+            <stop offset="1" stopColor="#E8C9F9" />
+          </linearGradient>
+          <linearGradient
+            id="paint3_linear_11_352"
+            x1="148"
+            y1="347"
+            x2="147.5"
+            y2="448"
+            gradientUnits="userSpaceOnUse"
+          >
+            <stop stopColor="#EBCEF8" />
+            <stop offset="1" stopColor="#5CE2F8" />
+          </linearGradient>
+        </defs>
+      </svg>
+    </>
+  );
+}
